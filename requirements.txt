@@ -1,0 +1,22 @@
+#langchain and related packages
+langchain
+langgraph
+langchain-google-genai
+langchain-mongodb
+
+#mongo
+pymongo
+langgraph-checkpoint-mongodb
+
+# web scrappers
+playwright
+beautifulsoup4
+requests
+
+# email and frontend
+resend
+streamlit
+
+# utilities
+python-dotenv
+pydantic
